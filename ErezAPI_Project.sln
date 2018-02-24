@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErezAPI", "ErezAPI\ErezAPI.csproj", "{BC6E3A98-E7A2-4A2D-84B2-EC862FE29F1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErezAPI.Data", "ErezAPI.Data\ErezAPI.Data\ErezAPI.Data.csproj", "{89CD1AF6-7F2A-49F7-BE39-C45B813A37A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6E3A98-E7A2-4A2D-84B2-EC862FE29F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6E3A98-E7A2-4A2D-84B2-EC862FE29F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6E3A98-E7A2-4A2D-84B2-EC862FE29F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6E3A98-E7A2-4A2D-84B2-EC862FE29F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89CD1AF6-7F2A-49F7-BE39-C45B813A37A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CD1AF6-7F2A-49F7-BE39-C45B813A37A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CD1AF6-7F2A-49F7-BE39-C45B813A37A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CD1AF6-7F2A-49F7-BE39-C45B813A37A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D37F3C-7237-4D82-B119-BF3D7215027B}
+	EndGlobalSection
+EndGlobal
